@@ -1,3 +1,6 @@
+
+[![Run on Repl.it](https://repl.it/badge/github/tweepy/tweepy)](https://repl.it/github/tweepy/tweepy)
+
 Tweepy: Twitter for Python!
 ======
 
